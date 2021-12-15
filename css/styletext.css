@@ -1,0 +1,29 @@
+h2 {
+    font-size: 16;
+    color: #AD1457;
+}
+
+h1 {
+    font-size: 28;
+    color: teal;
+}
+
+.big {
+    font-size: 60;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.big.uppercase {
+    color: navy;
+}
+
+span {
+    color: green;
+}
